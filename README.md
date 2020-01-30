@@ -1,13 +1,19 @@
-# Proyecto 1: Mi página Web personal
-## OBJETIVO: <br>
+# Proyect 1: Juan Felipe Torres Home Page
+## Objective: <br>
 El objetivo del proyecto es diseñar e implementar una página web personal y estática, en la cual se hable sobre mi, mi experiencia, habilidades, gustos y demás <br>
-## TECNOLOGÍAS USADAS: <br>
+## Technologies: <br>
 HTML, CSS, Bootstrap 4, Javascript, Node.js.
-## CÓMO CORRER PROGRAMA:
+## Running:
 
-### Pre-requisitos: 
+### Pre-requisites 
   * Tener una dipositivo electrónico con conexión a Internet.
   * Tener conexión a Internet.
   * Tener acceso a un navegador, preferiblemente Mozilla Firefox.
   
  Una vez se cumplan estos prerequisitos, basta con ingresar en el navegador la siguiente dirección:      https://jftorresp.github.io/, de esta manera se podrá ingresar a la página web.
+  
+ Made by Juan Felipe Torres, licensed under MIT
+ #### Link: https://jftorresp.github.io/
+
+## Overview:
+
