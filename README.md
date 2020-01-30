@@ -7,8 +7,8 @@ HTML, CSS, Bootstrap 4, Javascript, Node.js.
 
 The page is mostly a static HTML page, with some javascript. To run it, just launch your favorite web server, e.g.:
  
- `cd jftorresp.github.io`
- `http-server`
+ `cd jftorresp.github.io
+  http-server`
  
  Or you can launch it using reload, e.g.:
  
