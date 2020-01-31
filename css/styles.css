@@ -17,6 +17,7 @@ ul li a{
 
 ul li a:hover{
   text-decoration: none;
+  color: #88DE13;
 }
 
 h2{
@@ -59,17 +60,32 @@ button{
   background-size: cover;
   z-index: 1;
   font-family: 'Josefin Sans';
+  color: #fff;
+}
+
+.banner p{
+  font-size: 18px;
 }
 
 .btn{
   padding: 5px 42px;
-  background-image: linear-gradient(to right, #8490ff 0%, #62bdfc 48%, #8490ff 100%);
   background-size: 200% auto;
+  border-color: #fff;
   color: #fff;
   display: inline-block;
   border-radius: 5px;
   font-size: 15px;
   font-family: 'Josefin Sans';
+  margin: 0 auto;
+}
+
+.btn:hover{
+  color: #88DE13;
+  border-color: #88DE13;
+}
+
+.banner .banner-content{
+  padding-top: 10px;
 }
 
 /** Footer Styles **/
