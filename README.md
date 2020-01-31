@@ -19,8 +19,8 @@ The page is mostly a static HTML page, with some javascript. To run it, just lau
  reload -b
  ```
   
- Made by Juan Felipe Torres, licensed under MIT
- #### Link: https://jftorresp.github.io/
+ Made by [Juan Felipe Torres](jftorresp.github.io), licensed under MIT
+ 
 
 ## Overview
 
