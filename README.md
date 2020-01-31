@@ -5,22 +5,22 @@ The objective of the proyect is to design an static Home Page, talking about mys
 HTML, CSS, Bootstrap 4, Javascript, Node.js.
 ## Running
 
-The page is mostly a static HTML page, with some javascript. To run it, just launch your favorite web server, e.g.:
+The page is a static HTML page, with some javascript code in it. To run it, just launch your a web server, e.g.:
  
  ```
  cd jftorresp.github.io
  http-server`
  ```
  
- Or you can launch it using reload, e.g.:
+ You can launch it using reload, e.g.:
  
  ```
  cd jftorresp.github.io
  reload -b
  ```
+ Or if you just want to access de webpage in the browser, just type the url: https://jftorresp.github.io/
   
  Made by [Juan Felipe Torres](jftorresp.github.io), licensed under MIT
  
-
 ## Overview
 
