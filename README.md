@@ -1,4 +1,4 @@
-# Proyect 1: Juan Felipe Torres Home Page
+# Proyect 1: Juan Felipe Torres Personal Homepage
 ## Objective <br>
 The objective of the proyect is to design an static Home Page, talking about myself, my experiencies, habilities, hobbies and stuff. <br>
 ## Technologies <br>
