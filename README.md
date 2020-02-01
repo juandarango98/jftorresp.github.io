@@ -9,7 +9,7 @@ The page is a static HTML page, with some javascript code in it. To run it, just
  
  ```
  cd jftorresp.github.io
- http-server`
+ http-server
  ```
  
  You can launch it using reload, e.g.:
