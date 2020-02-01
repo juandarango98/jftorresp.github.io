@@ -88,13 +88,103 @@ button{
   padding-top: 10px;
 }
 
-/** ABout Me Styles **/
+/** About Me Styles **/
 
 .progress-bar{
   display: inline;
   margin: 3px;
-  width: 25%;
 }
+
+.about-me p{
+ font-family: 'PT Sans';
+}
+
+.about-me h3{
+  font-family: 'Josefin Sans';
+}
+
+.about-me h6{
+  font-family: 'PT Sans';
+}
+
+/** Skills Styles **/
+
+.skills{
+  background-color: #F3F3F3;
+}
+
+.skills .skills-item{
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 35px 35px;
+  margin-bottom: 30px;
+}
+
+.skills .skills-item:hover{
+  box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08);
+}
+
+.skills h3,h5{
+  font-family: 'Josefin Sans';
+}
+
+.skills p{
+  font-family: 'PT Sans';
+  color: #848484;
+}
+
+/** Like Section **/
+
+.like-section{
+  background-color: #88DE13;
+}
+
+.like-section h3{
+  font-family: 'Josefin Sans';
+  color: #fff;
+}
+
+.like-section p{
+  font-family: 'PT Sans';
+  color: #fff;
+  padding-top: 5px;
+}
+
+.like-section span{
+  padding: 0 5px 0 5px;
+}
+
+.like-section button{
+  border-radius: 30%;
+  color: #fff;
+  border-color: #fff;
+  background-color: #88DE13; 
+  font-family: 'PT Sans';
+}
+
+.like-section i{
+  color: #fff;
+  padding-top: 0;
+}
+
+/** Projects Section **/
+
+.projects h3,h4{
+  font-family: 'Josefin Sans';
+}
+
+.projects small,p{
+  font-family: 'PT Sans';
+}
+
+.projects p{
+  color: #848484;
+}
+
+.projects .card-body{
+  padding-bottom: 2px;
+}
+
 
 /** Footer Styles **/
 
