@@ -79,6 +79,10 @@ button{
   margin: 0 auto;
 }
 
+.banner .banner-text{
+  font-family: 'Josefin Sans';
+}
+
 .btn:hover{
   color: #88DE13;
   border-color: #88DE13;
@@ -136,7 +140,7 @@ button{
 /** Like Section **/
 
 .like-section{
-  background-color: #88DE13;
+  background-color: #120B46;
 }
 
 .like-section h3{
@@ -158,7 +162,7 @@ button{
   border-radius: 30%;
   color: #fff;
   border-color: #fff;
-  background-color: #88DE13; 
+  background-color: #120B46; 
   font-family: 'PT Sans';
 }
 
@@ -183,6 +187,76 @@ button{
 
 .projects .card-body{
   padding-bottom: 2px;
+}
+
+
+/** Experience Styles **/
+
+.experience{
+  background-color: #F3F3F3;
+}
+
+.experience .experience-item{
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 35px 35px;
+  margin-bottom: 30px;
+}
+
+.experience .experience-item:hover{
+  box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08);
+}
+
+.experience h4{
+  font-family: 'Josefin Sans';
+}
+
+.experience p, small{
+  font-family: 'PT Sans';
+}
+
+.experience small{
+    color: #848484;
+}
+
+.experience .experience-icon{
+  color: #848484;
+}
+
+.experience .experience-link{
+  font-family: 'PT Sans';
+}
+
+.experience a{
+  text-decoration: none;
+}
+
+/** CV Section **/
+
+.cv-section{
+  background-color: #180E61;
+}
+
+.cv-section h3{
+  font-family: 'Josefin Sans';
+  color: #fff;
+}
+
+.cv-section a{
+  padding: 5px 42px;
+  background-size: 200% auto;
+  border-color: #fff;
+  color: #fff;
+  display: inline-block;
+  border-radius: 5px;
+  font-size: 15px;
+  font-family: 'Josefin Sans';
+  margin: 0 auto;
+}
+
+.cv-section a:hover{
+  color: #88DE13;
+  border-color: #88DE13;
 }
 
 
