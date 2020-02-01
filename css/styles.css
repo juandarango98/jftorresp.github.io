@@ -88,6 +88,14 @@ button{
   padding-top: 10px;
 }
 
+/** ABout Me Styles **/
+
+.progress-bar{
+  display: inline;
+  margin: 3px;
+  width: 25%;
+}
+
 /** Footer Styles **/
 
 footer{
