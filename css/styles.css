@@ -64,6 +64,14 @@ button{
   margin-right: 8px;
 }
 
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
 /** Banner Styles **/
 
 .banner{
@@ -78,7 +86,7 @@ button{
   font-size: 18px;
 }
 
-.btn{
+.banner .butt{
   padding: 5px 42px;
   background-size: 200% auto;
   border-color: #fff;
@@ -94,7 +102,7 @@ button{
   font-family: 'Josefin Sans';
 }
 
-.btn:hover{
+.banner .butt:hover{
   color: #88DE13;
   border-color: #88DE13;
 }
@@ -169,11 +177,7 @@ button{
   padding: 0 5px 0 5px;
 }
 
-.like-section button{
-  border-radius: 30%;
-  color: #fff;
-  border-color: #fff;
-  background-color: #120B46; 
+.like-section btn{ 
   font-family: 'PT Sans';
 }
 

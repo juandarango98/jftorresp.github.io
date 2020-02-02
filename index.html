@@ -44,7 +44,7 @@
   <body>
 
     <!-- NavBar Section -->
-    <header>
+    <header id="navbar">
       <div class="container">
         <div class="row">
           <div class="col-sm-4">
@@ -81,7 +81,7 @@
                 <h3 class="text-uppercase text-center"><strong>Juan Felipe Torres Piza</strong></h3>
                 <p class="text-center banner-text">Student from the Universidad de los Andes in the degree of Computer & Systems Engineering and double degree in Design.</p>
                 <div class="text-center">
-                <a href="#about" class="btn"> Know More</a>
+                <a href="#about" class="btn butt"> Know More</a>
                 </div>
              </div>
             </div>
@@ -196,8 +196,8 @@
         <h3 class="text-center font-weight-bold">DID YOU LIKE MY HOMEPAGE?</h3>
         <p class="text-center">Click the button bellow and leave a like!</p>
         <div class="row justify-content-center">
-            <span><button>LIKE</button></span>
-            <span><p>200</p></span>
+            <span><button id="like-btn" onclick="countLikes()" class="btn btn-dark">LIKE</button></span>
+            <span class="align-self-auto"><p id="count">0</p></span>
             <span class="align-self-center"><i class="fa fa-heart"></i></span>
         </div>
       </div>
