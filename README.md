@@ -1,11 +1,11 @@
 # Proyect 1: Juan Felipe Torres Personal Homepage
 ## Objective <br>
-The objective of the proyect is to design an static Home Page, talking about myself, my experiencies, habilities, hobbies and stuff. <br>
+The objective of the proyect is to design an **static Home Page**, talking about **myself**, my experiencies, habilities, hobbies and stuff. <br>
 ## Technologies <br>
 HTML, CSS, Bootstrap 4, Javascript, Node.js.
 ## Running
 
-The page is a static HTML page, with some javascript code in it. To run it, just launch your a web server, e.g.:
+The page is a static HTML page, with some javascript code in it. To run it, just launch your a **web server**, e.g.:
  
  ```
  cd jftorresp.github.io
