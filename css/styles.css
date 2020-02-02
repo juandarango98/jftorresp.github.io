@@ -29,7 +29,18 @@ h2{
 header{
   background-color: #000;
   width: 100%;
-  padding-bottom: 10px;
+}
+
+header #logo{
+  text-decoration: none;
+}
+
+header h1{
+  font-family: 'Josefin Sans';
+  color: #fff;
+  padding-top: 10px;
+  position: absolute;
+  padding-left: 8px;
 }
 
 .container, .row{
@@ -37,7 +48,7 @@ header{
 }
 
 .navbar{
-  padding: 2px;
+  padding: 8px;
 }
 
 .navbar-toggler{
@@ -50,7 +61,7 @@ header{
 
 button{
   margin-top: 5px;
-  margin-right: 5px;
+  margin-right: 8px;
 }
 
 /** Banner Styles **/
@@ -259,6 +270,25 @@ button{
   border-color: #88DE13;
 }
 
+/** Contact Styles **/
+
+.contact .info-item{
+  position: relative;
+}
+
+.contact i{
+  position: absolute;
+}
+
+.contact .info-text{
+  padding-left: 45px;
+}
+
+.contact form{
+  font-family: 'PT Sans';
+}
+
+
 
 /** Footer Styles **/
 
@@ -285,6 +315,11 @@ footer ul{
   font-weight: bold;
   font-size: 18px;
   padding-top: 5px;
+}
+
+.footer p{
+  font-family: 'PT Sans';
+  color: #B6B6B6;
 }
 
 
