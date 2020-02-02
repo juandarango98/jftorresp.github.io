@@ -24,3 +24,5 @@ The page is a static HTML page, with some javascript code in it. To run it, just
  
 ## Overview
 
+![Homepage image](http://url/to/img.png)
+
