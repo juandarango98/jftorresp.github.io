@@ -20,12 +20,15 @@ The page is a static HTML page, with some javascript code in it. To run it, just
  ```
  Or if you just want to access de webpage in the browser, just type the url: https://jftorresp.github.io/
   
- Made by [Juan Felipe Torres](jftorresp.github.io), licensed under MIT
- 
 ## Overview
 
 ![Homepage image](https://i.imgur.com/EpaPOTU.png)
 Homepage initial view
+<br>
 
 ![Projects image](https://i.imgur.com/dINaxTt.png)
 View of the Behance projects section
+<br>
+
+ Made by [Juan Felipe Torres](jftorresp.github.io), licensed under MIT
+
