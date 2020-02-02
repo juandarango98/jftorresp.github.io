@@ -25,4 +25,7 @@ The page is a static HTML page, with some javascript code in it. To run it, just
 ## Overview
 
 ![Homepage image](https://i.imgur.com/EpaPOTU.png)
+Homepage initial view
 
+![Projects image](https://i.imgur.com/dINaxTt.png)
+View of the Behance projects section
