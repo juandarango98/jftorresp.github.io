@@ -186,6 +186,10 @@ button{
   padding-top: 0;
 }
 
+.like-section #count{
+  color: #fff;
+}
+
 /** Projects Section **/
 
 .projects h3,h4{
