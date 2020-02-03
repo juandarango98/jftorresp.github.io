@@ -2,7 +2,7 @@
 ## Objective <br>
 The objective of the proyect is to design an **static Home Page**, talking about **myself**, my experiencies, habilities, hobbies and stuff. <br>
 ## Technologies <br>
-HTML, CSS, Bootstrap 4, Javascript, Node.js.
+HTML, CSS, Bootstrap 4, Javascript, Node.js, PHP.
 ## Running
 
 The page is a static HTML page, with some javascript code in it. To run it, just launch your a **web server**, e.g.:
@@ -23,10 +23,12 @@ The page is a static HTML page, with some javascript code in it. To run it, just
 ## Overview
 
 ![Homepage image](https://i.imgur.com/EpaPOTU.png)
+<br>
 Homepage initial view
 <br>
 
 ![Projects image](https://i.imgur.com/dINaxTt.png)
+<br>
 View of the Behance projects section
 <br>
 
